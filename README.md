@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | MERN Stack</h3>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Engineering | MERN Stack</h3>
 
 ---
 
