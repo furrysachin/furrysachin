@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Engineering | MERN Stack</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+%26+LLM+Enthusiast;Building+Real+World+Projects;Open+to+Opportunities" />
+</p>
 
 ---
 
@@ -16,8 +18,17 @@
 
 ## 🌐 Socials:
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sachin-kumar-3476aa24a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sachinkumark674@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sachin-kumar-3476aa24a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sachinkumark674@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/saachiiiiink">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -110,12 +121,15 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=furrysachin&theme=merko&hide_border=false&include_all_commits=true"/>
-<img src="https://streak-stats.demolab.com/?user=furrysachin&theme=merko"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=furrysachin&layout=compact&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api?username=furrysachin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=furrysachin&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furrysachin&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
 </p>
 
 ---
@@ -128,12 +142,10 @@
 <img src="https://komarev.com/ghpvc/?username=furrysachin&color=blue"/>
 </p>
 
-## ✍️ Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
 
 ---
 
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=furrysachin&theme=react-dark&hide_border=true"/>
+</p>
 
